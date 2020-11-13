@@ -1,6 +1,7 @@
-# test
+# 别来无恙 Blog
 
 > A Vue.js project
+> 个人博客，开发中
 
 ## Build Setup
 
